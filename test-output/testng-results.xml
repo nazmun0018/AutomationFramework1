@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-13T21:25:45Z" name="Test" finished-at="2023-01-13T21:26:02Z" duration-ms="17312">
+    <groups>
+    </groups>
+    <test started-at="2023-01-13T21:25:45Z" name="Demo" finished-at="2023-01-13T21:26:02Z" duration-ms="17312">
+      <class name="PageTestPackage.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.HomePageTest@150c158]" started-at="2023-01-13T21:25:45Z" name="setup" finished-at="2023-01-13T21:25:49Z" duration-ms="3932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Testlogo()[pri:0, instance:PageTestPackage.HomePageTest@150c158]" started-at="2023-01-13T21:25:49Z" name="Testlogo" finished-at="2023-01-13T21:25:49Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogo -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.HomePageTest@150c158]" started-at="2023-01-13T21:25:49Z" name="Teardown" finished-at="2023-01-13T21:25:49Z" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.HomePageTest@150c158]" started-at="2023-01-13T21:25:49Z" name="setup" finished-at="2023-01-13T21:25:52Z" duration-ms="2643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyinglogin()[pri:0, instance:PageTestPackage.HomePageTest@150c158]" started-at="2023-01-13T21:25:52Z" name="verifyinglogin" finished-at="2023-01-13T21:25:52Z" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinglogin -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.HomePageTest@150c158]" started-at="2023-01-13T21:25:52Z" name="Teardown" finished-at="2023-01-13T21:25:53Z" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- PageTestPackage.HomePageTest -->
+      <class name="PageTestPackage.LandingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LandingPageTest@401e7803]" started-at="2023-01-13T21:25:56Z" name="setup" finished-at="2023-01-13T21:25:59Z" duration-ms="3035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestMailID()[pri:0, instance:PageTestPackage.LandingPageTest@401e7803]" started-at="2023-01-13T21:25:59Z" name="TestMailID" finished-at="2023-01-13T21:25:59Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMailID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:PageTestPackage.LandingPageTest@401e7803]" started-at="2023-01-13T21:25:59Z" name="tearDown" finished-at="2023-01-13T21:25:59Z" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LandingPageTest@401e7803]" started-at="2023-01-13T21:25:59Z" name="setup" finished-at="2023-01-13T21:26:02Z" duration-ms="3001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestWbl()[pri:0, instance:PageTestPackage.LandingPageTest@401e7803]" started-at="2023-01-13T21:26:02Z" name="TestWbl" finished-at="2023-01-13T21:26:02Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestWbl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:PageTestPackage.LandingPageTest@401e7803]" started-at="2023-01-13T21:26:02Z" name="tearDown" finished-at="2023-01-13T21:26:02Z" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PageTestPackage.LandingPageTest -->
+      <class name="PageTestPackage.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LoginPageTest@4524411f]" started-at="2023-01-13T21:25:53Z" name="setup" finished-at="2023-01-13T21:25:56Z" duration-ms="2821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Testlogin()[pri:0, instance:PageTestPackage.LoginPageTest@4524411f]" started-at="2023-01-13T21:25:56Z" name="Testlogin" finished-at="2023-01-13T21:25:56Z" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogin -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.LoginPageTest@4524411f]" started-at="2023-01-13T21:25:56Z" name="Teardown" finished-at="2023-01-13T21:25:56Z" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- PageTestPackage.LoginPageTest -->
+    </test> <!-- Demo -->
+  </suite> <!-- Test -->
+</testng-results>
